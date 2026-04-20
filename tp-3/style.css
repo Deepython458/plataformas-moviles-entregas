@@ -45,6 +45,6 @@
 			opacity: 50%;
 			text-align: center;
 		}
-		p:not([id]) {
-	            background-color: rgba(190, 120, 240, 0.6);
-	        }
+        p:not([id]) {
+            background-color: rgba(190, 120, 240, 0.6);
+        }
