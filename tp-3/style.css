@@ -4,6 +4,9 @@
 			background-color: #ffe;
 			color: #210;
 		}
+.titulo {
+	text-align: center;
+}
 
 		#contenedor {
 			max-width: 40ch;
